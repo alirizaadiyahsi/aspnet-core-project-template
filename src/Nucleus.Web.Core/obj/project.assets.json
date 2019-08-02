@@ -9146,11 +9146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj",
+      "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj",
       "projectName": "Nucleus.Web.Core",
-      "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj",
+      "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj",
       "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Core\\obj\\",
+      "outputPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -9171,11 +9171,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Application\\Nucleus.Application.csproj": {
-              "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Application\\Nucleus.Application.csproj"
+            "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Application\\Nucleus.Application.csproj": {
+              "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Application\\Nucleus.Application.csproj"
             },
-            "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj": {
-              "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj"
+            "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj": {
+              "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj"
             }
           }
         }

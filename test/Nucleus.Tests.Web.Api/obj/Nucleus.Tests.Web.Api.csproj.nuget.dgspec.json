@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Web.Api\\Nucleus.Tests.Web.Api.csproj": {}
+    "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Web.Api\\Nucleus.Tests.Web.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Application\\Nucleus.Application.csproj": {
+    "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Application\\Nucleus.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Application\\Nucleus.Application.csproj",
+        "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Application\\Nucleus.Application.csproj",
         "projectName": "Nucleus.Application",
-        "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Application\\Nucleus.Application.csproj",
+        "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Application\\Nucleus.Application.csproj",
         "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Application\\obj\\",
+        "outputPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,14 +32,14 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
-                "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj"
+              "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
+                "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj"
               },
-              "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj": {
-                "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj"
+              "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj": {
+                "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj"
               },
-              "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj": {
-                "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj"
+              "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj": {
+                "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
+    "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj",
+        "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj",
         "projectName": "Nucleus.Core",
-        "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj",
+        "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj",
         "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\obj\\",
+        "outputPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj": {
+    "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj",
+        "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj",
         "projectName": "Nucleus.EntityFramework",
-        "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj",
+        "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj",
         "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\obj\\",
+        "outputPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -188,8 +188,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
-                "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj"
+              "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
+                "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj"
               }
             }
           }
@@ -245,14 +245,14 @@
         }
       }
     },
-    "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj": {
+    "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj",
+        "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj",
         "projectName": "Nucleus.Utilities",
-        "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj",
+        "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj",
         "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Utilities\\obj\\",
+        "outputPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -314,14 +314,14 @@
         }
       }
     },
-    "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj": {
+    "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj",
+        "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj",
         "projectName": "Nucleus.Web.Api",
-        "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj",
+        "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj",
         "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Api\\obj\\",
+        "outputPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -342,14 +342,14 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Application\\Nucleus.Application.csproj": {
-                "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Application\\Nucleus.Application.csproj"
+              "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Application\\Nucleus.Application.csproj": {
+                "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Application\\Nucleus.Application.csproj"
               },
-              "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
-                "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj"
+              "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
+                "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj"
               },
-              "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj": {
-                "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj"
+              "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj": {
+                "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj"
               }
             }
           }
@@ -426,14 +426,14 @@
         }
       }
     },
-    "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj": {
+    "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj",
+        "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj",
         "projectName": "Nucleus.Web.Core",
-        "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj",
+        "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Core\\Nucleus.Web.Core.csproj",
         "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Core\\obj\\",
+        "outputPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -454,11 +454,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Application\\Nucleus.Application.csproj": {
-                "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Application\\Nucleus.Application.csproj"
+              "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Application\\Nucleus.Application.csproj": {
+                "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Application\\Nucleus.Application.csproj"
               },
-              "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj": {
-                "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj"
+              "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj": {
+                "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj"
               }
             }
           }
@@ -517,14 +517,14 @@
         }
       }
     },
-    "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj": {
+    "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj",
+        "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj",
         "projectName": "Nucleus.Tests.Shared",
-        "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj",
+        "projectPath": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj",
         "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Shared\\obj\\",
+        "outputPath": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -545,11 +545,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
-                "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj"
+              "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
+                "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj"
               },
-              "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj": {
-                "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj"
+              "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj": {
+                "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj"
               }
             }
           }
@@ -596,14 +596,14 @@
         }
       }
     },
-    "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Web.Api\\Nucleus.Tests.Web.Api.csproj": {
+    "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Web.Api\\Nucleus.Tests.Web.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Web.Api\\Nucleus.Tests.Web.Api.csproj",
+        "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Web.Api\\Nucleus.Tests.Web.Api.csproj",
         "projectName": "Nucleus.Tests.Web.Api",
-        "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Web.Api\\Nucleus.Tests.Web.Api.csproj",
+        "projectPath": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Web.Api\\Nucleus.Tests.Web.Api.csproj",
         "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Web.Api\\obj\\",
+        "outputPath": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Web.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -624,8 +624,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj": {
-                "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj"
+              "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj": {
+                "projectPath": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj"
               }
             }
           }

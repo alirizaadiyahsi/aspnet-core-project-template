@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Application\\Nucleus.Tests.Application.csproj",
+      "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Application\\Nucleus.Tests.Application.csproj",
       "projectName": "Nucleus.Tests.Application",
-      "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Application\\Nucleus.Tests.Application.csproj",
+      "projectPath": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Application\\Nucleus.Tests.Application.csproj",
       "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Application\\obj\\",
+      "outputPath": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -11910,8 +11910,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj": {
-              "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj"
+            "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj": {
+              "projectPath": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj"
             }
           }
         }

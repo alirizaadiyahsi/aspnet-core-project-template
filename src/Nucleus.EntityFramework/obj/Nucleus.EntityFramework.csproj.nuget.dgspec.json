@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj": {}
+    "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
+    "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj",
+        "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj",
         "projectName": "Nucleus.Core",
-        "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj",
+        "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj",
         "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\obj\\",
+        "outputPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj": {
+    "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj",
+        "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj",
         "projectName": "Nucleus.EntityFramework",
-        "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj",
+        "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\Nucleus.EntityFramework.csproj",
         "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.EntityFramework\\obj\\",
+        "outputPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -101,8 +101,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
-                "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj"
+              "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
+                "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj"
               }
             }
           }

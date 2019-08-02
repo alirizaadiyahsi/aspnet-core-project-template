@@ -104,11 +104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj",
+      "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj",
       "projectName": "Nucleus.Utilities",
-      "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj",
+      "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Utilities\\Nucleus.Utilities.csproj",
       "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Utilities\\obj\\",
+      "outputPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

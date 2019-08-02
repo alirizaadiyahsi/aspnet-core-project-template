@@ -10283,11 +10283,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj",
+      "projectUniqueName": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj",
       "projectName": "Nucleus.Tests.Shared",
-      "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj",
+      "projectPath": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Shared\\Nucleus.Tests.Shared.csproj",
       "packagesPath": "C:\\Users\\alirizaadiyahsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\test\\Nucleus.Tests.Shared\\obj\\",
+      "outputPath": "D:\\GitHub\\aspnet-core-project-template\\test\\Nucleus.Tests.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -10308,11 +10308,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
-              "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Core\\Nucleus.Core.csproj"
+            "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj": {
+              "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Core\\Nucleus.Core.csproj"
             },
-            "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj": {
-              "projectPath": "C:\\Users\\alirizaadiyahsi\\source\\repos\\Nucleus\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj"
+            "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj": {
+              "projectPath": "D:\\GitHub\\aspnet-core-project-template\\src\\Nucleus.Web.Api\\Nucleus.Web.Api.csproj"
             }
           }
         }
