@@ -352,5 +352,3 @@ MigrationBackup/
 .ionide/
 
 /src/Nucleus.Web.Api/Logs
-*.cache
-.vs/Nucleus/v16/.suo
