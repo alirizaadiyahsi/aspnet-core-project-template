@@ -69,7 +69,7 @@ namespace Nucleus.Web.Api.Controller.Users
 
             if (identityResult.Succeeded)
             {
-                return Ok();
+                return NoContent();
             }
 
             return BadRequest(identityResult.Errors.Select(e => new NameValueDto(e.Code, e.Description)));

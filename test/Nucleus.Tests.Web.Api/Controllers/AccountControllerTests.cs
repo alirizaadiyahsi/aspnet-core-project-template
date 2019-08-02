@@ -169,6 +169,7 @@ namespace Nucleus.Tests.Web.Api.Controllers
                 RoleId = DefaultRoles.Admin.Id
             });
             await _dbContext.SaveChangesAsync();
+
             return testUser;
         }
     }
