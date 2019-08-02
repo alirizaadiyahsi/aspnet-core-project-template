@@ -1,6 +1,3 @@
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\obj\Debug\netcoreapp3.0\staticwebassets\Nucleus.Web.Api.StaticWebAssets.Manifest.cache
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\obj\Debug\netcoreapp3.0\staticwebassets\Nucleus.Web.Api.StaticWebAssets.xml
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Web.Api.csproj.CoreCompileInputs.cache
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\bin\Debug\netcoreapp3.0\appsettings.Development.json
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\bin\Debug\netcoreapp3.0\appsettings.json
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
@@ -143,6 +140,9 @@ D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\bin\Debug\netcoreapp3
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\bin\Debug\netcoreapp3.0\Nucleus.EntityFramework.pdb
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\bin\Debug\netcoreapp3.0\Nucleus.Utilities.pdb
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Web.Api.csprojAssemblyReference.cache
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\obj\Debug\netcoreapp3.0\staticwebassets\Nucleus.Web.Api.StaticWebAssets.Manifest.cache
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\obj\Debug\netcoreapp3.0\staticwebassets\Nucleus.Web.Api.StaticWebAssets.xml
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Web.Api.csproj.CoreCompileInputs.cache
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Web.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Web.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Web.Api.AssemblyInfoInputs.cache

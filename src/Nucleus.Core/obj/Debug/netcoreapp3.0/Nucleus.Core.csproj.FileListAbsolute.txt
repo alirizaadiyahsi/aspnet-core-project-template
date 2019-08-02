@@ -1,7 +1,6 @@
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Core\bin\Debug\netcoreapp3.0\Nucleus.Core.deps.json
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Core\bin\Debug\netcoreapp3.0\Nucleus.Core.dll
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Core\bin\Debug\netcoreapp3.0\Nucleus.Core.pdb
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Core\obj\Debug\netcoreapp3.0\Nucleus.Core.csprojAssemblyReference.cache
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Core\obj\Debug\netcoreapp3.0\Nucleus.Core.csproj.CoreCompileInputs.cache
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Core\obj\Debug\netcoreapp3.0\Nucleus.Core.AssemblyInfoInputs.cache
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Core\obj\Debug\netcoreapp3.0\Nucleus.Core.AssemblyInfo.cs

@@ -1,7 +1,3 @@
-D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\obj\Debug\netcoreapp3.0\Nucleus.Tests.Shared.csprojAssemblyReference.cache
-D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\obj\Debug\netcoreapp3.0\Nucleus.Tests.Shared.csproj.CoreCompileInputs.cache
-D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\obj\Debug\netcoreapp3.0\Nucleus.Tests.Shared.AssemblyInfoInputs.cache
-D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\obj\Debug\netcoreapp3.0\Nucleus.Tests.Shared.AssemblyInfo.cs
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\bin\Debug\netcoreapp3.0\appsettings.Development.json
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\bin\Debug\netcoreapp3.0\appsettings.json
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
@@ -21,6 +17,10 @@ D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\bin\Debug\netco
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\bin\Debug\netcoreapp3.0\Nucleus.EntityFramework.pdb
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\bin\Debug\netcoreapp3.0\Nucleus.Utilities.pdb
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\bin\Debug\netcoreapp3.0\Nucleus.Web.Core.pdb
+D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\obj\Debug\netcoreapp3.0\Nucleus.Tests.Shared.csprojAssemblyReference.cache
+D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\obj\Debug\netcoreapp3.0\Nucleus.Tests.Shared.csproj.CoreCompileInputs.cache
+D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\obj\Debug\netcoreapp3.0\Nucleus.Tests.Shared.AssemblyInfoInputs.cache
+D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\obj\Debug\netcoreapp3.0\Nucleus.Tests.Shared.AssemblyInfo.cs
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\obj\Debug\netcoreapp3.0\Nucleus.Tests.Shared.csproj.CopyComplete
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\obj\Debug\netcoreapp3.0\Nucleus.Tests.Shared.dll
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Shared\obj\Debug\netcoreapp3.0\Nucleus.Tests.Shared.pdb

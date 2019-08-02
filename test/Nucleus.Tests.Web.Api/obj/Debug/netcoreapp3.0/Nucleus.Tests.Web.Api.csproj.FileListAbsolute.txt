@@ -1,7 +1,3 @@
-D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Tests.Web.Api.csprojAssemblyReference.cache
-D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Tests.Web.Api.csproj.CoreCompileInputs.cache
-D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Tests.Web.Api.AssemblyInfoInputs.cache
-D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Tests.Web.Api.AssemblyInfo.cs
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\bin\Debug\netcoreapp3.0\appsettings.Development.json
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\bin\Debug\netcoreapp3.0\appsettings.json
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
@@ -230,6 +226,10 @@ D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\bin\Debug\netc
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\bin\Debug\netcoreapp3.0\Nucleus.Utilities.pdb
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\bin\Debug\netcoreapp3.0\Nucleus.Web.Api.pdb
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\bin\Debug\netcoreapp3.0\Nucleus.Web.Core.pdb
+D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Tests.Web.Api.csprojAssemblyReference.cache
+D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Tests.Web.Api.csproj.CoreCompileInputs.cache
+D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Tests.Web.Api.AssemblyInfoInputs.cache
+D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Tests.Web.Api.AssemblyInfo.cs
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Tests.Web.Api.csproj.CopyComplete
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Tests.Web.Api.dll
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Web.Api\obj\Debug\netcoreapp3.0\Nucleus.Tests.Web.Api.pdb

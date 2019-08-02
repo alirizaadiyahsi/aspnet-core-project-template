@@ -1,7 +1,3 @@
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\obj\Debug\netcoreapp3.0\Nucleus.Web.Core.csprojAssemblyReference.cache
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\obj\Debug\netcoreapp3.0\Nucleus.Web.Core.csproj.CoreCompileInputs.cache
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\obj\Debug\netcoreapp3.0\Nucleus.Web.Core.AssemblyInfoInputs.cache
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\obj\Debug\netcoreapp3.0\Nucleus.Web.Core.AssemblyInfo.cs
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\bin\Debug\netcoreapp3.0\Nucleus.Web.Core.deps.json
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\bin\Debug\netcoreapp3.0\Nucleus.Web.Core.dll
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\bin\Debug\netcoreapp3.0\Nucleus.Web.Core.pdb
@@ -13,6 +9,10 @@ D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\bin\Debug\netcoreapp
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\bin\Debug\netcoreapp3.0\Nucleus.EntityFramework.pdb
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\bin\Debug\netcoreapp3.0\Nucleus.Core.pdb
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\bin\Debug\netcoreapp3.0\Nucleus.Utilities.pdb
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\obj\Debug\netcoreapp3.0\Nucleus.Web.Core.csprojAssemblyReference.cache
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\obj\Debug\netcoreapp3.0\Nucleus.Web.Core.csproj.CoreCompileInputs.cache
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\obj\Debug\netcoreapp3.0\Nucleus.Web.Core.AssemblyInfoInputs.cache
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\obj\Debug\netcoreapp3.0\Nucleus.Web.Core.AssemblyInfo.cs
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\obj\Debug\netcoreapp3.0\Nucleus.Web.Core.csproj.CopyComplete
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\obj\Debug\netcoreapp3.0\Nucleus.Web.Core.dll
 D:\GitHub\aspnet-core-project-template\src\Nucleus.Web.Core\obj\Debug\netcoreapp3.0\Nucleus.Web.Core.pdb

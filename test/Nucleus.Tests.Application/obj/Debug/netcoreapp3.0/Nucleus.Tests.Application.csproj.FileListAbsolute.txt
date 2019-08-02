@@ -1,7 +1,3 @@
-D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\obj\Debug\netcoreapp3.0\Nucleus.Tests.Application.csprojAssemblyReference.cache
-D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\obj\Debug\netcoreapp3.0\Nucleus.Tests.Application.csproj.CoreCompileInputs.cache
-D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\obj\Debug\netcoreapp3.0\Nucleus.Tests.Application.AssemblyInfoInputs.cache
-D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\obj\Debug\netcoreapp3.0\Nucleus.Tests.Application.AssemblyInfo.cs
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\bin\Debug\netcoreapp3.0\appsettings.Development.json
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\bin\Debug\netcoreapp3.0\appsettings.json
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
@@ -229,6 +225,10 @@ D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\bin\Debug\
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\bin\Debug\netcoreapp3.0\Nucleus.Utilities.pdb
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\bin\Debug\netcoreapp3.0\Nucleus.Web.Api.pdb
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\bin\Debug\netcoreapp3.0\Nucleus.Web.Core.pdb
+D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\obj\Debug\netcoreapp3.0\Nucleus.Tests.Application.csprojAssemblyReference.cache
+D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\obj\Debug\netcoreapp3.0\Nucleus.Tests.Application.csproj.CoreCompileInputs.cache
+D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\obj\Debug\netcoreapp3.0\Nucleus.Tests.Application.AssemblyInfoInputs.cache
+D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\obj\Debug\netcoreapp3.0\Nucleus.Tests.Application.AssemblyInfo.cs
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\obj\Debug\netcoreapp3.0\Nucleus.Tests.Application.csproj.CopyComplete
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\obj\Debug\netcoreapp3.0\Nucleus.Tests.Application.dll
 D:\GitHub\aspnet-core-project-template\test\Nucleus.Tests.Application\obj\Debug\netcoreapp3.0\Nucleus.Tests.Application.pdb
