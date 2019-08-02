@@ -14,10 +14,10 @@ namespace Nucleus.Application
         {
             CreateMap<User, UserDto>()
                 .ForMember(u => u.Password, opt => opt.Ignore());
-            CreateMap<User, UserListOutput>();
 
+            // TODO: Add automatic mapping instead of declaring one by one
+            CreateMap<User, UserListOutput>();
             CreateMap<Permission, PermissionDto>();
-            
             CreateMap<Role, RoleDto>();
             CreateMap<Role, RoleListOutput>();
         }

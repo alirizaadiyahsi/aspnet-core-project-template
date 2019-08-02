@@ -4182,6 +4182,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "3.0.0-preview7.19362.4",
           "Newtonsoft.Json": "12.0.2"
         },
         "compile": {

@@ -1,0 +1,16 @@
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\obj\Debug\netcoreapp3.0\Nucleus.Application.csprojAssemblyReference.cache
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\obj\Debug\netcoreapp3.0\Nucleus.Application.csproj.CoreCompileInputs.cache
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\obj\Debug\netcoreapp3.0\Nucleus.Application.AssemblyInfoInputs.cache
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\obj\Debug\netcoreapp3.0\Nucleus.Application.AssemblyInfo.cs
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\bin\Debug\netcoreapp3.0\Nucleus.Application.deps.json
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\bin\Debug\netcoreapp3.0\Nucleus.Application.dll
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\bin\Debug\netcoreapp3.0\Nucleus.Application.pdb
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\bin\Debug\netcoreapp3.0\Nucleus.Core.dll
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\bin\Debug\netcoreapp3.0\Nucleus.EntityFramework.dll
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\bin\Debug\netcoreapp3.0\Nucleus.Utilities.dll
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\bin\Debug\netcoreapp3.0\Nucleus.Core.pdb
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\bin\Debug\netcoreapp3.0\Nucleus.EntityFramework.pdb
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\bin\Debug\netcoreapp3.0\Nucleus.Utilities.pdb
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\obj\Debug\netcoreapp3.0\Nucleus.Application.csproj.CopyComplete
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\obj\Debug\netcoreapp3.0\Nucleus.Application.dll
+D:\GitHub\aspnet-core-project-template\src\Nucleus.Application\obj\Debug\netcoreapp3.0\Nucleus.Application.pdb
