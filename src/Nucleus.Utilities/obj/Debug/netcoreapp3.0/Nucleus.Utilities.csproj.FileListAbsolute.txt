@@ -1,8 +1,0 @@
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Utilities\bin\Debug\netcoreapp3.0\Nucleus.Utilities.deps.json
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Utilities\bin\Debug\netcoreapp3.0\Nucleus.Utilities.dll
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Utilities\bin\Debug\netcoreapp3.0\Nucleus.Utilities.pdb
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Utilities\obj\Debug\netcoreapp3.0\Nucleus.Utilities.csproj.CoreCompileInputs.cache
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Utilities\obj\Debug\netcoreapp3.0\Nucleus.Utilities.AssemblyInfoInputs.cache
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Utilities\obj\Debug\netcoreapp3.0\Nucleus.Utilities.AssemblyInfo.cs
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Utilities\obj\Debug\netcoreapp3.0\Nucleus.Utilities.dll
-D:\GitHub\aspnet-core-project-template\src\Nucleus.Utilities\obj\Debug\netcoreapp3.0\Nucleus.Utilities.pdb
