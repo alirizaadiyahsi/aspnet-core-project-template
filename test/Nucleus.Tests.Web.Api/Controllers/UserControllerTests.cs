@@ -123,7 +123,7 @@ namespace Nucleus.Tests.Web.Api.Controllers
             var requestMessage = new HttpRequestMessage(HttpMethod.Delete, "/api/user/deleteUser?id=" + testUser.Id);
             requestMessage.Headers.Authorization = new AuthenticationHeaderValue("Bearer", _token);
             var responseAddUser = await TestServer.CreateClient().SendAsync(requestMessage);
-            Assert.Equal(HttpStatusCode.OK, responseAddUser.StatusCode);
+            Assert.Equal(HttpStatusCode.NoContent, responseAddUser.StatusCode);
         }
 
         private async Task<User> CreateAndGetTestUserAsync()

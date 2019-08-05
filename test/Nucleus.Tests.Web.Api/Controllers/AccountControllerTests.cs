@@ -141,7 +141,7 @@ namespace Nucleus.Tests.Web.Api.Controllers
         [Fact]
         public async Task Should_Get_Granted_Permissions()
         {
-            var requestMessage = new HttpRequestMessage(HttpMethod.Get, "/api/account/getGrantedPermissions?userNameOrEmail=" + DefaultUsers.TestAdmin.UserName);
+            var requestMessage = new HttpRequestMessage(HttpMethod.Get, "/api/permissions?userNameOrEmail=" + DefaultUsers.TestAdmin.UserName);
             requestMessage.Headers.Authorization = new AuthenticationHeaderValue("Bearer", _token);
             var response = await TestServer.CreateClient().SendAsync(requestMessage);
             Assert.Equal(HttpStatusCode.OK, response.StatusCode);
