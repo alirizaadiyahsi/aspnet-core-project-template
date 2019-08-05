@@ -18,7 +18,7 @@ namespace Nucleus.Tests.Web.Api
 
         protected async Task<HttpResponseMessage> LoginAsAdminUserAsync()
         {
-            return await TestServer.CreateClient().PostAsync("/api/account/login",
+            return await TestServer.CreateClient().PostAsync("/api/login",
                 AdminUserLoginViewModel.ToStringContent(Encoding.UTF8, "application/json"));
         }
 
@@ -30,7 +30,7 @@ namespace Nucleus.Tests.Web.Api
                 Password = password
             };
 
-            return await TestServer.CreateClient().PostAsync("/api/account/login",
+            return await TestServer.CreateClient().PostAsync("/api/login",
                 adminUserLoginViewModel.ToStringContent(Encoding.UTF8, "application/json"));
         }
 

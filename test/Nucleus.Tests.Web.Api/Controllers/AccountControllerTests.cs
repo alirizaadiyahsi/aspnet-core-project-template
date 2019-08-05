@@ -33,7 +33,7 @@ namespace Nucleus.Tests.Web.Api.Controllers
         [Fact]
         public async Task Should_Not_Access_Authorized_Controller()
         {
-            var responseUsers = await TestServer.CreateClient().GetAsync("/api/user/getUsers");
+            var responseUsers = await TestServer.CreateClient().GetAsync("/api/users");
             Assert.Equal(HttpStatusCode.Unauthorized, responseUsers.StatusCode);
         }
 
@@ -62,7 +62,7 @@ namespace Nucleus.Tests.Web.Api.Controllers
         [Fact]
         public async Task Should_Access_Authorized_Controller()
         {
-            var requestMessage = new HttpRequestMessage(HttpMethod.Get, "/api/user/getUsers");
+            var requestMessage = new HttpRequestMessage(HttpMethod.Get, "/api/users");
             requestMessage.Headers.Authorization = new AuthenticationHeaderValue("Bearer", _token);
             var responseGetUsers = await TestServer.CreateClient().SendAsync(requestMessage);
             Assert.Equal(HttpStatusCode.OK, responseGetUsers.StatusCode);
@@ -81,7 +81,7 @@ namespace Nucleus.Tests.Web.Api.Controllers
                 Password = "aA!121212"
             };
 
-            var responseRegister = await TestServer.CreateClient().PostAsync("/api/account/register",
+            var responseRegister = await TestServer.CreateClient().PostAsync("/api/register",
                 registerInput.ToStringContent(Encoding.UTF8, "application/json"));
 
             Assert.Equal(HttpStatusCode.OK, responseRegister.StatusCode);
@@ -97,7 +97,7 @@ namespace Nucleus.Tests.Web.Api.Controllers
                 Password = "aA!121212"
             };
 
-            var responseRegister = await TestServer.CreateClient().PostAsync("/api/account/register",
+            var responseRegister = await TestServer.CreateClient().PostAsync("/api/register",
                 registerInput.ToStringContent(Encoding.UTF8, "application/json"));
 
             Assert.Equal(HttpStatusCode.BadRequest, responseRegister.StatusCode);
@@ -113,7 +113,7 @@ namespace Nucleus.Tests.Web.Api.Controllers
                 Password = "aA!121212"
             };
 
-            var response = await TestServer.CreateClient().PostAsync("/api/account/register",
+            var response = await TestServer.CreateClient().PostAsync("/api/register",
                 input.ToStringContent(Encoding.UTF8, "application/json"));
 
             Assert.Equal(HttpStatusCode.BadRequest, response.StatusCode);
@@ -131,7 +131,7 @@ namespace Nucleus.Tests.Web.Api.Controllers
                 PasswordRepeat = "aA!121212"
             };
 
-            var requestMessage = new HttpRequestMessage(HttpMethod.Post, "/api/account/changePassword");
+            var requestMessage = new HttpRequestMessage(HttpMethod.Post, "/api/changePassword");
             requestMessage.Headers.Authorization = new AuthenticationHeaderValue("Bearer", token);
             requestMessage.Content = input.ToStringContent(Encoding.UTF8, "application/json");
             var response = await TestServer.CreateClient().SendAsync(requestMessage);
